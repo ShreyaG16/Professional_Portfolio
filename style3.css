@@ -1,0 +1,12 @@
+.skills {
+    position: relative;
+    min-height: 100vh;
+    padding: 100px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background:url(skills.jpg);
+    background-size: cover;    
+}
+
